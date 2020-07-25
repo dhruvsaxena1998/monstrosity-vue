@@ -4,9 +4,12 @@ Vue.js Web-Application - `click based game`
 
 ## DEMO
 
-[Live Demo]()
+[Live Demo](https://saxenadhruv.me/monstrosity/)
 
-> Development `yarn install`
+> Development 
+
+ - `yarn install`
+ - `yarn serve`
 
 --- 
 
