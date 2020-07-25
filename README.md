@@ -1,24 +1,15 @@
 # monstrosity-vue
 
-## Project setup
-```
-yarn install
-```
+Vue.js Web-Application - `click based game`
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## DEMO
 
-### Compiles and minifies for production
-```
-yarn build
-```
+[Live Demo]()
 
-### Lints and fixes files
-```
-yarn lint
-```
+> Development `yarn install`
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+--- 
+
+#### Play Trough (output)
+
+![play-trough](https://i.imgur.com/W7c7ZPI.gif)
